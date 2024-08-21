@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "lily58_colemak_dh"]
+	path = lily58_colemak_dh
+	url = https://github.com/markus-rapp-nyland/lily58_colemak_dh.git
